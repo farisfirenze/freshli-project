@@ -1,16 +1,16 @@
 # freshli_delivery
 
 Freshli Fish Delivery App
+This app is mainnly about a fish delivery app for major restaurants.
 
-## Getting Started
+You can find some screenshots below for your reference
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/47142325/218735522-cfb6facd-4596-4f27-92c9-19a2853fdfb5.png)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/47142325/218735695-f6762583-aee1-473c-8904-3b5b26f0f2e2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://user-images.githubusercontent.com/47142325/218735728-9347667a-51e1-44a7-a5cb-d7552558440b.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/47142325/218735762-699a3439-43e1-4799-90b7-32a737bb3694.png)
+
+
