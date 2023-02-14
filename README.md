@@ -1,7 +1,8 @@
 # freshli_delivery
 
 Freshli Fish Delivery App
-This app is mainnly about a fish delivery app for major restaurants.
+This app is a fish delivery app for major restaurants.
+The app is created using Cloudinary and Firebase in Flutter
 
 You can find some screenshots below for your reference
 
