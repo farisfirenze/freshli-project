@@ -1,10 +1,16 @@
 # freshli_delivery
 
-Freshli Fish Delivery App
+Freshli Fish Delivery App is a mobile application designed to enable major restaurants to conveniently order and receive fresh seafood products from local suppliers. The app is built using the Flutter framework and integrates with Firebase to provide a seamless and reliable user experience.
 
-This app is a fish delivery app for major restaurants.
+Features
 
-The app is created using Cloudinary and Firebase in Flutter
+Easy and intuitive user interface for quick ordering and delivery status.
+
+A wide selection of fresh seafood products to choose from.
+
+Integration with Firebase to ensure reliable data storage and communication.
+
+
 
 You can find some screenshots below for your reference
 
